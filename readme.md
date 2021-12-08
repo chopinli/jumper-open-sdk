@@ -1,7 +1,7 @@
 # sdk-java
 
 
-sdk for java
+sdk for javag
 
 SDK只依赖了三个jar包
 
