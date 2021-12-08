@@ -81,9 +81,9 @@ public class GetStoryRequest extends BaseRequest<GetStoryResponse> {
 String url = "http://localhost:8081";
 String appId = "2019032617262200001";
 String privateKey = "你的私钥";
-
-// 声明一个就行
-OpenClient client = new OpenClient(url, appId, privateKey);
+String publicKeyPlatform ="开放平台提供的公钥"
+ // 声明一个就行
+OpenClient client = new OpenClient(url, appId, privateKeyIsv, publicKeyPlatform);
 
 // 标准用法
 @Test

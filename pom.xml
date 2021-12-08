@@ -18,7 +18,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
-
+	<url>https://github.com/18682411831/jumper-open-sdk.git</url>
 	<dependencies>
 		<!-- http请求 -->
 		<dependency>
